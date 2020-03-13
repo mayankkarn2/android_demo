@@ -8,5 +8,6 @@ public class DateDbContract {
 
         public static final String TABLE_NAME = "date";
         public static final String COLUMN_TODAY = "today";
+        public static  final String hai = "hai";
     }
 }
